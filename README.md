@@ -18,3 +18,14 @@
 😊
 🙏
 🇨🇦
+## Keyboard Shortcuts
+Shortcuts I Frequently Use:
+- Cmnd-C
+- Cmnd-V
+- Cmnd-Z
+
+Shortcuts I would like to start using:
+- Cmnd-Q
+- Cmnd-Spacebar
+- Cmnd-Shift-V
+
