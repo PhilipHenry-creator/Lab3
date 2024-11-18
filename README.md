@@ -14,6 +14,7 @@
 * [W3 Schools] (https://www.w3schools.com/)
 * [George Brown College] (https://www.georgebrown.ca/)
 * [Toronto City] (https://www.toronto.ca/)
+* [CLI Commands] (docs/cli.md)
 # Experiments
 😊
 🙏
